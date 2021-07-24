@@ -1,9 +1,11 @@
 import React from "react";
+import Navbar from "../components/Navbar";
 
 function HomePage() {
   return (
     <div>
-      <p>This is the home page</p>
+      <Navbar />
+      <p>THIS IS THE HOME PAGE</p>
     </div>
   );
 }
