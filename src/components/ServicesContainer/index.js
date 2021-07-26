@@ -4,7 +4,7 @@ import "./style.css";
 function ResumeContainer(props) {
   return (
     <div className="container">
-      <h1 className="resume-header">Here is more information</h1>
+      <h1 className="resume-header">Here are the services we offer</h1>
       <hr></hr>
       <div>
         <div className="row">
@@ -19,7 +19,7 @@ function ResumeContainer(props) {
           </div>
           <div className="col-auto col-sm mx-auto">
             <div className="resume-body">
-              <h5 className="mt-0 mb-1 resume-title">This is a title</h5>
+              <h5 className="mt-0 mb-1 resume-title">Service 1</h5>
               <p className="resume-text-body">
                 Poke raw denim lorem, tumblr you probably haven't heard of them
                 shabby chic scenester squid beard tattooed intelligentsia dolore
@@ -44,7 +44,7 @@ function ResumeContainer(props) {
           </div>
           <div className="col-auto col-sm mx-auto">
             <div className="resume-body">
-              <h5 className="mt-0 mb-1 resume-title">This is a title</h5>
+              <h5 className="mt-0 mb-1 resume-title">Service 2</h5>
               <p className="resume-text-body">
                 Poke raw denim lorem, tumblr you probably haven't heard of them
                 shabby chic scenester squid beard tattooed intelligentsia dolore
@@ -69,7 +69,7 @@ function ResumeContainer(props) {
           </div>
           <div className="col-auto col-sm mx-auto">
             <div className="resume-body">
-              <h5 className="mt-0 mb-1 resume-title">This is a title</h5>
+              <h5 className="mt-0 mb-1 resume-title">Service 3</h5>
               <p className="resume-text-body">
                 Poke raw denim lorem, tumblr you probably haven't heard of them
                 shabby chic scenester squid beard tattooed intelligentsia dolore
@@ -90,7 +90,7 @@ function ResumeContainer(props) {
         <div className="col-auto col-sm mx-auto">
           <div class="resume-body">
             <h5 class="mt-0 mb-1 resume-title">
-              <u>Here is a little bit more information</u>
+              <u>Reach out for a customized package</u>
             </h5>
             <br />
             <p class="resume-extra">

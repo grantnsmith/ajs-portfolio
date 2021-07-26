@@ -1,11 +1,17 @@
 import React from "react";
 import Navbar from "../components/Navbar";
+import Container from "../components/Container";
+import ServicesContainer from "../components/ServicesContainer";
+import ResumeFooter from "../components/ResumeFooter";
 
 function Services() {
   return (
     <div>
       <Navbar />
-      <p>THIS IS THE SERVICES PAGE</p>
+      <Container>
+        <ServicesContainer />
+      </Container>
+      <ResumeFooter />
     </div>
   );
 }
