@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: black;
+  height: 70vh;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  /* background-size: cover; */
+}
+
+.jumbotron-title {
+  color: #e0e0e0;
+}
+
+.jumbotron-sub-title {
+  font-size: 3vh;
+  color: #e0e0e0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}
